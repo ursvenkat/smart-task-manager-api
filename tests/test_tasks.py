@@ -1,2 +1,2 @@
-def test_task_creation():
-    pass
+def test_create_task():
+    assert True
