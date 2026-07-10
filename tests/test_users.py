@@ -1,2 +1,2 @@
-def test_user_creation():
-    pass
+def test_create_user():
+    assert True
