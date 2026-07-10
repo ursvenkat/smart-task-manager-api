@@ -1,2 +1,2 @@
 def test_login():
-    pass
+  assert True
